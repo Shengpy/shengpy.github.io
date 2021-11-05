@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "shenghtml",
+			"path": "."
+		},
+		{
+			"name": "shenngu",
+			"path": "..\\shenngu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shenghtml"
+	}
+}
